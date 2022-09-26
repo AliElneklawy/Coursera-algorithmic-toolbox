@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1657221445 source:c:\users\m e t r o\onedrive\desktop\coursera week 1\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1657825091 source:c:\users\m e t r o\onedrive\desktop\coursera week 1\week 2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1657825714 source:c:\users\m e t r o\onedrive\desktop\coursera week 1\week 2\2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1658292399 source:c:\users\m e t r o\onedrive\desktop\coursera\week 3\2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1658394713 source:c:\users\m e t r o\onedrive\desktop\coursera\week 3\3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<Windows.h>
+
+1658416843 source:c:\users\m e t r o\onedrive\desktop\coursera\week 3\7\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1658440268 source:c:\users\m e t r o\onedrive\desktop\coursera\week 3\6\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
